@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Output folders
+output/
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (se algum dia usar)
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
