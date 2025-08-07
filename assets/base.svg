@@ -1,0 +1,17 @@
+<!-- planta_7_comodos.svg -->
+<svg width="1600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Quarto 1 -->
+  <rect x="0" y="0" width="500" height="500" fill="none" stroke="black"/>
+  <!-- Quarto 2 -->
+  <rect x="0" y="310" width="500" height="500" fill="none" stroke="black"/>
+  <!-- Quarto 3 -->
+  <rect x="310" y="0" width="500" height="500" fill="none" stroke="black"/>
+  <!-- Sala de Estar (maior) -->
+  <rect x="310" y="310" width="600" height="300" fill="none" stroke="black"/>
+  <!-- Sala de Jantar -->
+  <rect x="620" y="0" width="490" height="400" fill="none" stroke="black"/>
+  <!-- Cozinha (grande) -->
+  <rect x="920" y="0" width="500" height="400" fill="none" stroke="black"/>
+  <!-- Banheiro -->
+  <rect x="920" y="310" width="300" height="250" fill="none" stroke="black"/>
+</svg>
